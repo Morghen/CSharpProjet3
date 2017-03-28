@@ -1,0 +1,16 @@
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\ApplicTest.exe.config
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\ApplicTest.exe
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\ApplicTest.pdb
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\CartoObj.dll
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\CartoObj.pdb
+D:\ProjetC#\ProjetCsharp1\ApplicTest\obj\Debug\ApplicTest.csprojResolveAssemblyReference.cache
+D:\ProjetC#\ProjetCsharp1\ApplicTest\obj\Debug\ApplicTest.exe
+D:\ProjetC#\ProjetCsharp1\ApplicTest\obj\Debug\ApplicTest.pdb
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\MyMathLib.dll
+D:\ProjetC#\ProjetCsharp1\ApplicTest\bin\Debug\MyMathLib.pdb
+D:\ProjetC#\ProjetCsharp2\ApplicTest\bin\Debug\ApplicTest.exe.config
+D:\ProjetC#\ProjetCsharp2\ApplicTest\obj\Debug\ApplicTest.exe
+D:\ProjetC#\ProjetCsharp2\ApplicTest\obj\Debug\ApplicTest.pdb
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\ApplicTest\obj\Debug\ApplicTest.csprojResolveAssemblyReference.cache
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\ApplicTest\obj\Debug\ApplicTest.exe
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\ApplicTest\obj\Debug\ApplicTest.pdb

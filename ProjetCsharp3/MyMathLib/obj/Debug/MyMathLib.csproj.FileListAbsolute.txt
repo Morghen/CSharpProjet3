@@ -1,0 +1,10 @@
+D:\ProjetC#\ProjetCsharp1\MyMathLib\bin\Debug\MyMathLib.dll
+D:\ProjetC#\ProjetCsharp1\MyMathLib\bin\Debug\MyMathLib.pdb
+D:\ProjetC#\ProjetCsharp1\MyMathLib\obj\Debug\MyMathLib.csprojResolveAssemblyReference.cache
+D:\ProjetC#\ProjetCsharp1\MyMathLib\obj\Debug\MyMathLib.dll
+D:\ProjetC#\ProjetCsharp1\MyMathLib\obj\Debug\MyMathLib.pdb
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\MyMathLib\bin\Debug\MyMathLib.dll
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\MyMathLib\bin\Debug\MyMathLib.pdb
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\MyMathLib\obj\Debug\MyMathLib.csprojResolveAssemblyReference.cache
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\MyMathLib\obj\Debug\MyMathLib.dll
+C:\Users\Rémy\Source\Repos\git\ProjetCsharp2\MyMathLib\obj\Debug\MyMathLib.pdb
